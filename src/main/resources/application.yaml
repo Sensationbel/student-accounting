@@ -1,0 +1,4 @@
+app:
+  students-add:
+    enabled: true
+  path-read: src/main/resources/default-students.txt
